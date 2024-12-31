@@ -16,6 +16,7 @@
     padding: 10px;
     border-radius: 5px;
     background-color: rgb(81, 218, 81);
+    cursor: pointer;
 }
 .flx{
     display: flex;
@@ -62,6 +63,7 @@
     padding: 10px;
     border-radius: 5px;
     background-color:rgb(81, 218, 81) ;
+    cursor: pointer;
 }
 .txt{
     border: none;
